@@ -1,0 +1,21 @@
+{
+  "name": "hubot-cig",
+  "version": "0.0.2",
+  "description": "CIG scripts for hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davelillyoracle/hubot-cig-scripts"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "CIG",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
+}
