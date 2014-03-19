@@ -1,0 +1,2 @@
+hubot-cig-scripts
+=================
