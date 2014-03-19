@@ -1,3 +1,3 @@
 module.exports = (robot) ->
     robot.respond /womp$/i, (msg) ->
-        msg.send "oh yeah"
+        msg.send "http://memecrunch.com/meme/1F11V/womp-womp/image.png" 
